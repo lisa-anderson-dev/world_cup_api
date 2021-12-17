@@ -1,6 +1,4 @@
-import { tab } from '@testing-library/user-event/dist/tab';
 import React, { useEffect } from 'react';
-import { isCompositeComponent } from 'react-dom/cjs/react-dom-test-utils.production.min';
 import { useDispatch, useSelector } from 'react-redux';
 import { fetchPosts } from '../actions/actions';
 
