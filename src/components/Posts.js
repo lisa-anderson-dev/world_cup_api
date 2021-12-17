@@ -63,7 +63,6 @@ function Posts(props) {
                         {tableStatCells}
                     </tr>
                     </tbody>
-                    
                 </table>
             </div>
         )        
