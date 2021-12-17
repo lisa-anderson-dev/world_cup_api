@@ -17,7 +17,7 @@ function Posts(props) {
             return <h1>Loading</h1>
         }
         if (value.error) {
-            return <h1>value.error</h1>
+            return <h1>{value.error}</h1>
         }
 
         const usMatches = value.items.filter((e) => e["home_team_country"] === "USA" || e["away_team_country"] === "USA");
