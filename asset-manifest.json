@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/world_cup_api/static/css/main.ca9547a8.css",
-    "main.js": "/world_cup_api/static/js/main.aa0c0343.js",
+    "main.js": "/world_cup_api/static/js/main.4a8abc93.js",
     "static/js/787.eac8ef15.chunk.js": "/world_cup_api/static/js/787.eac8ef15.chunk.js",
-    "static/media/logo.svg": "/world_cup_api/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/world_cup_api/index.html",
     "main.ca9547a8.css.map": "/world_cup_api/static/css/main.ca9547a8.css.map",
-    "main.aa0c0343.js.map": "/world_cup_api/static/js/main.aa0c0343.js.map",
+    "main.4a8abc93.js.map": "/world_cup_api/static/js/main.4a8abc93.js.map",
     "787.eac8ef15.chunk.js.map": "/world_cup_api/static/js/787.eac8ef15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca9547a8.css",
-    "static/js/main.aa0c0343.js"
+    "static/js/main.4a8abc93.js"
   ]
 }
